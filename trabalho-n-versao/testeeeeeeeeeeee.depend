@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622509277 source:c:\users\carol\onedrive\documentos\testeeeeeeeeeeee\main.c
+	<stdio.h>
+	<stddef.h>
+	<errno.h>
+	<time.h>
+	<pthread.h>
+	<semaphore.h>
+
